@@ -1,0 +1,38 @@
+.button{
+    -fx-background-color: #ffffff;
+    -fx-font-family: "Arial Narrow";
+}
+
+#background{
+    -fx-background-color: #e4e4e4;
+
+}
+
+#quizKampenText{
+    -fx-font-size: 40;
+}
+
+#nameText{
+    -fx-font-weight: bold;
+}
+
+#buttonLayout{
+    -fx-padding: 40px;
+}
+
+#playerOne{
+    -fx-font-size: 15;
+}
+
+#playerTwo{
+    -fx-font-size: 15;
+}
+
+#scrollpane > .viewport {
+    -fx-background-color: transparent;
+}
+#scrollpane {
+    -fx-background-color: transparent;
+}
+
+
